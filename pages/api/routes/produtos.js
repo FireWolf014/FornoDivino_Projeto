@@ -57,42 +57,42 @@ router.get('/:id_produto', (req, res, next) => {
 });
 
 
-// Altera um produto
-router.patch('/', (req, res, next) => {
-    mysql.getConnection((error, conn) => {
-        if (error) {return res.status(500).send({error: error})}
-        conn.query(
-            `UPDATE PRODUTOS
-                SET COD             = ?,
-                    DESCRICAO       = ?
-                    PROCO_VEND      = ?
-                    PRECO_CUSTO     = ?
-                    COD_FORNECEDOR  = ?
-                    SERIAL_NUMBER   = ?
-                    QTD_EST         = ?
-                WHERE ID_PRODUTOS   = ?`,
-            [
-                req.body.cod,
-                req.body.descricao,
-                req.body.preco_vend,
-                req.body.preco_custo,
-                req.body.cod_fornecedor,
-                req.body.serial_number,
-                req.body.qtd_est,
-                req.body.id_produto
-            ],
-            (error, resultado, field) => {
-                conn.release();
-                if (error) {return res.status(500).send({error: error})}
+// // Altera um produto
+// router.patch('/', (req, res, next) => {
+//     mysql.getConnection((error, conn) => {
+//         if (error) {return res.status(500).send({error: error})}
+//         conn.query(
+//             `UPDATE PRODUTOS
+//                 SET COD             = ?,
+//                     DESCRICAO       = ?
+//                     PROCO_VEND      = ?
+//                     PRECO_CUSTO     = ?
+//                     COD_FORNECEDOR  = ?
+//                     SERIAL_NUMBER   = ?
+//                     QTD_EST         = ?
+//                 WHERE ID_PRODUTOS   = ?`,
+//             [
+//                 req.body.cod,
+//                 req.body.descricao,
+//                 req.body.preco_vend,
+//                 req.body.preco_custo,
+//                 req.body.cod_fornecedor,
+//                 req.body.serial_number,
+//                 req.body.qtd_est,
+//                 req.body.id_produto
+//             ],
+//             (error, resultado, field) => {
+//                 conn.release();
+//                 if (error) {return res.status(500).send({error: error})}
 
-                res.status(201).send({
-                    mensagem: "Produto cadastrado com sucesso",
-                    id_produto: resultado.insertId
-                });
-            }
-        )
-    })
-});
+//                 res.status(201).send({
+//                     mensagem: "Produto cadastrado com sucesso",
+//                     id_produto: resultado.insertId
+//                 });
+//             }
+//         )
+//     })
+// });
 
 //Deleta um produto
 router.delete('/', (req, res, next) => {
