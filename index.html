@@ -20,6 +20,8 @@
 
     <link rel="stylesheet" href="css/ionicons.min.css">
 
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
@@ -39,14 +41,25 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="menu.html" class="nav-link">Menu</a></li>
-	          <li class="nav-item"><a href="services.html" class="nav-link">Serviços</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
 	          <li class="nav-item"><a href="about.html" class="nav-link">Sobre</a></li>
 	          <li class="nav-item"><a href="contact.html" class="nav-link">Contato</a></li>
+						<li class="nav-item"><a class="nav-link" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasLeft" aria-controls="offcanvasRight">Toggle right offcanvas</a>
+
+							<div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasLeft" aria-labelledby="offcanvasRightLabel">
+								<div class="offcanvas-header">
+									<h5 class="offcanvas-title" id="offcanvasRightLabel">Offcanvas right</h5>
+									<button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+								</div>
+								<div class="offcanvas-body">
+									...
+								</div>
+							</div></li>
 	        </ul>
 	      </div>
 		  </div>
 	  </nav>
+
+		
     <!-- END nav -->
 
     <section class="home-slider owl-carousel img" style="background-image: url(images/bg_1.jpg);">
@@ -108,38 +121,6 @@
     <section class="ftco-intro">
     	<div class="container-wrap">
     		<div class="wrap d-md-flex">
-	    		<div class="info">
-	    			<div class="row no-gutters">
-	    				<div class="col-md-4 d-flex ftco-animate">
-	    					<div class="icon"><span class="icon-phone"></span></div>
-	    					<div class="text">
-	    						<h3>000 (123) 456 7890</h3>
-	    						<p>Um pequeno rio chamado Duden flui</p>
-	    					</div>
-	    				</div>
-	    				<div class="col-md-4 d-flex ftco-animate">
-	    					<div class="icon"><span class="icon-my_location"></span></div>
-	    					<div class="text">
-	    						<h3>198 West 21th Street</h3>
-	    						<p>Suite 721 New York NY 10016</p>
-	    					</div>
-	    				</div>
-	    				<div class="col-md-4 d-flex ftco-animate">
-	    					<div class="icon"><span class="icon-clock-o"></span></div>
-	    					<div class="text">
-	    						<h3>Aberto de segunda a sexta</h3>
-	    						<p>8:00am - 9:00pm</p>
-	    					</div>
-	    				</div>
-	    			</div>
-	    		</div>
-	    		<div class="social d-md-flex pl-md-5 p-4 align-items-center">
-	    			<ul class="social-icon">
-              <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-              <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-            </ul>
-	    		</div>
     		</div>
     	</div>
     </section>
@@ -843,6 +824,7 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     
   </body>
 </html>
