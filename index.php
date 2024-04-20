@@ -25,7 +25,6 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
-	<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
     <link href="navbar.css" rel="stylesheet">
     
     <link rel="stylesheet" href="css/flaticon.css">
@@ -33,89 +32,9 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-  	<nav class="navbar navbar-expand-xxl navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-	    <div class="container">
-		      <a class="navbar-brand" href="index.html"><span class="flaticon-pizza-1 mr-1"></span>Pizza<br><small>Delicioso</small></a>
-		      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-		        <span class="oi oi-menu"></span> Menu
-		      </button>
-	      <div class="collapse navbar-collapse" id="ftco-nav">
-	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="menu.html" class="nav-link">Menu</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">Sobre</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contato</a></li>
-					
-						<li class="nav-item"><a class="nav-link" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasLeft" aria-controls="offcanvasRight">Carrinho</a>
-
-							<div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasLeft" aria-labelledby="offcanvasRightLabel">
-								<div class="offcanvas-header">
-									<h5 class="offcanvas-title" id="offcanvasRightLabel">Offcanvas right</h5>
-									<button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-								</div>
-							</div></li>			
-	        </ul>
-	      </div>
-		  </div>
-	  </nav>
-
-<!-- TESTE 1
-	  <nav class="navbar bg-light fixed-top">
-		<div class="container-fluid">
-		  <a class="navbar-brand" href="#">Offcanvas navbar</a>
-		  <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-			<span class="navbar-toggler-icon"></span>
-		  </button>
-		  <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-			<div class="offcanvas-header">
-			  <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
-			  <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-			</div>
-			<div class="offcanvas-body">
-			  <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-				<li class="nav-item">
-				  <a class="nav-link active" aria-current="page" href="#">Home</a>
-				</li>
-				<li class="nav-item">
-				  <a class="nav-link" href="#">Link</a>
-				</li>
-				<li class="nav-item dropdown">
-				  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-					Dropdown
-				  </a>
-				  <ul class="dropdown-menu">
-					<li><a class="dropdown-item" href="#">Action</a></li>
-					<li><a class="dropdown-item" href="#">Another action</a></li>
-					<li>
-					  <hr class="dropdown-divider">
-					</li>
-					<li><a class="dropdown-item" href="#">Something else here</a></li>
-				  </ul>
-				</li>
-			  </ul>
-			  <form class="d-flex mt-3" role="search">
-				<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-				<button class="btn btn-outline-success" type="submit">Search</button>
-			  </form>
-			</div>
-		  </div>
-		</div>
-	  </nav>
-
--->
-
-	  <!-- TESTE 2 <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">Toggle right offcanvas</button>
-
-	  <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
-		<div class="offcanvas-header">
-		  <h5 class="offcanvas-title" id="offcanvasRightLabel">Offcanvas right</h5>
-		  <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-		</div>
-		<div class="offcanvas-body">
-		  ...
-		</div>
-	  </div> -->
-
+  	<header>
+			<?php include_once("./components/navbar.php");  ?>
+		</header>
 		
     <!-- END nav -->
 
