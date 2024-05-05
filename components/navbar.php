@@ -1,6 +1,6 @@
 <nav class="navbar navbar-dark bg-dark fixed-top">
 	<div class="container-fluid">
-			<a class="navbar-brand container-sm " href="index.php"> <h1 class="h4 container-sm">Forno divino</h1>	</a>	
+				
 		<button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>

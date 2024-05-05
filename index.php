@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
-    <title>Pizza - Free Bootstrap 4 Template by Colorlib</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -45,10 +44,10 @@
           <div class="row slider-text align-items-center" data-scrollax-parent="true">
 
             <div class="col-md-6 col-sm-12 ftco-animate">
-            	<span class="subheading">Delicioso</span>
+            	<span class="subheading">Deliciosa</span>
               <h1 class="mb-4">Cozinha italiana</h1>
-              <p class="mb-4 mb-md-5">Um pequeno rio chamado Duden passa por seu lugar e abastece-o com a regelialia necessária.</p>
-              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Peça agora</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Ver cardápio</a></p>
+              <p class="mb-4 mb-md-5">Uma cozinha italiana é uma explosão de sabores autênticos, destacando ingredientes frescos como tomates, azeite de oliva e queijos artesanais. Massas delicadamente preparadas, pizzas crocantes e pratos de carne suculentos são alguns dos pilares desta culinária que encanta paladares ao redor do mundo.</p>
+              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Peça agora</a> <a href="menu.php" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Ver cardápio</a></p>
             </div>
             <div class="col-md-6 ftco-animate">
             	<img src="images/bg_1.png" class="img-fluid" alt="">
@@ -66,8 +65,8 @@
             <div class="col-md-6 col-sm-12 order-md-last ftco-animate">
             	<span class="subheading">Crocante</span>
               <h1 class="mb-4">Pizza Italiana</h1>
-              <p class="mb-4 mb-md-5">Um pequeno rio chamado Duden passa por seu lugar e abastece-o com a regelialia necessária.</p>
-              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Peça agora</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Ver cardápio</a></p>
+              <p class="mb-4 mb-md-5">Uma pizza italiana é uma obra-prima de massa fina, molho de tomate rico e queijos derretidos, muitas vezes complementada por ingredientes frescos como manjericão, pepperoni ou cogumelos.</p>
+              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Peça agora</a> <a href="menu.php" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Ver cardápio</a></p>
             </div>
             <div class="col-md-6 ftco-animate">
             	<img src="images/bg_2.png" class="img-fluid" alt="">
@@ -85,8 +84,7 @@
             <div class="col-md-7 col-sm-12 text-center ftco-animate">
             	<span class="subheading">Bem-vindo</span>
               <h1 class="mb-4">Preparamos a receita de pizza desejada</h1>
-              <p class="mb-4 mb-md-5">Um pequeno rio chamado Duden passa por seu lugar e abastece-o com a regelialia necessária.</p>
-              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Peça agora</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Ver cardápio</a></p>
+              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Peça agora</a> <a href="menu.php" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Ver cardápio</a></p>
             </div>
 
           </div>
@@ -105,10 +103,10 @@
     	<div class="one-half img" style="background-image: url(images/about.jpg);"></div>
     	<div class="one-half ftco-animate">
         <div class="heading-section ftco-animate ">
-          <h2 class="mb-4">Bem-vindo ao <span class="flaticon-pizza">Pizza</span> Um restaurante</h2>
+          <h2 class="mb-4">Bem-vindo ao <span class="flaticon-pizza">Forno divino</span>
         </div>
         <div>
-  				<p>No caminho ela encontrou uma cópia. A cópia alertava o Texto Ceguinho, que de onde veio já teria sido reescrito mil vezes e tudo o que restasse de sua origem seria a palavra "e" e o Texto Ceguinho deveria virar e voltar ao seu, país seguro. Mas nada que o texto dissesse poderia convencê-la e por isso não demorou muito até que alguns redatores insidiosos a emboscaram, embebedaram-na com Longe e Parole e a arrastaram para sua agência, onde abusaram dela por causa de seus crimes.</p>
+  				<p>Uma pizzaria italiana é um local acolhedor, onde a essência do país transborda através de fatias generosas de pizza de massa fina, cobertas com molho de tomate e queijos derretidos. O ambiente é caloroso e familiar, com o aroma reconfortante de massa fresca e o som de conversas animadas ao redor das mesas. Os clientes desfrutam de uma variedade de sabores autênticos, desde as clássicas Margheritas até as mais ousadas combinações de toppings, enquanto saboreiam uma taça de vinho ou uma cerveja gelada. É um ponto de encontro onde amigos e famílias se reúnem para compartilhar momentos e criar memórias em torno de uma das mais amadas tradições culinárias italianas.</p>
   			</div>
     	</div>
     </section>
@@ -119,7 +117,7 @@
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
             <h2 class="mb-4">Nossos serviços</h2>
-            <p>Muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p>
+            <!-- <p>Muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p> -->
           </div>
         </div>
     		<div class="row">
@@ -130,7 +128,7 @@
               </div>
               <div class="media-body">
                 <h3 class="heading">Comidas saudáveis</h3>
-                <p>Mesmo o todo-poderoso Apontar não tem controle sobre os textos cegos, é quase não ortográfico.</p>
+                <p>Comidas saudáveis são essenciais para uma vida equilibrada, repletas de nutrientes e sabores naturais, promovendo bem-estar físico e mental.</p>
               </div>
             </div>      
           </div>
@@ -141,7 +139,7 @@
               </div>
               <div class="media-body">
                 <h3 class="heading">Entrega mais rápida</h3>
-                <p>Mesmo o todo-poderoso Apontar não tem controle sobre os textos cegos, é quase não ortográfico.</p>
+                <p>Entrega mais rápida garante praticidade e eficiência, facilitando o acesso a refeições frescas e saborosas no conforto do lar, otimizando o tempo e satisfazendo a fome em minutos.</p>
               </div>
             </div>      
           </div>
@@ -150,7 +148,7 @@
               <div class="icon d-flex justify-content-center align-items-center mb-5"><span class="flaticon-pizza-1"></span></div>
               <div class="media-body">
                 <h3 class="heading">Receitas Originais</h3>
-                <p>Mesmo o todo-poderoso Apontar não tem controle sobre os textos cegos, é quase não ortográfico.</p>
+                <p>Receitas originais despertam a criatividade culinária, explorando combinações únicas de ingredientes e técnicas inovadoras para criar pratos surpreendentes e memoráveis.</p>
               </div>
             </div>    
           </div>
@@ -162,8 +160,8 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
-            <h2 class="mb-4">Refeições de pizza quente</h2>
-            <p>Muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p>
+            <h2 class="mb-4">Escolha sua pizza</h2>
+            <!-- <p>Muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p> -->
           </div>
         </div>
     	</div>
@@ -174,7 +172,7 @@
     					<a href="#" class="img" style="background-image: url(images/pizza-1.jpg);"></a>
     					<div class="text p-4">
     						<h3>Pizza Italiana</h3>
-    						<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia</p>
+    						<p>Pizza Italiana: Massa fina, molho de tomate e queijos derretidos em uma combinação clássica e irresistível.</p>
     						<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Adicionar</a></p>
     					</div>
     				</div>
@@ -184,7 +182,7 @@
     					<a href="#" class="img" style="background-image: url(images/pizza-2.jpg);"></a>
     					<div class="text p-4">
     						<h3>Pizza Grega</h3>
-    						<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia</p>
+    						<p>Pizza Grega: Azeitonas, queijo feta, tomates e manjericão em uma explosão mediterrânea de sabores.</p>
     						<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Adicionar</a></p>
     					</div>
     				</div>
@@ -194,7 +192,7 @@
     					<a href="#" class="img" style="background-image: url(images/pizza-3.jpg);"></a>
     					<div class="text p-4">
     						<h3>Pizza Caucasiana</h3>
-    						<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia</p>
+    						<p>Pizza Caucasiana: Iogurte, carne, nozes e ervas frescas numa combinação exótica e saborosa.</p>
     						<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Adicionar</a></p>
     					</div>
     				</div>
@@ -205,7 +203,7 @@
     					<a href="#" class="img order-lg-last" style="background-image: url(images/pizza-4.jpg);"></a>
     					<div class="text p-4">
     						<h3>Pizza Americana</h3>
-    						<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia</p>
+    						<p>Pizza Americana: Uma clássica combinação de pepperoni, queijo derretido e molho de tomate em uma massa crocante e irresistível.</p>
     						<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Adicionar</a></p>
     					</div>
     				</div>
@@ -214,8 +212,8 @@
     				<div class="services-wrap d-flex">
     					<a href="#" class="img order-lg-last" style="background-image: url(images/pizza-5.jpg);"></a>
     					<div class="text p-4">
-    						<h3>Torta De Tomate</h3>
-    						<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia</p>
+    						<h3>Pizza frutos do mar</h3>
+    						<p>Pizza Frutos do Mar: Camarão, lula, mariscos sobre molho de tomate e queijo derretido, uma explosão de sabores do mar.</p>
     						<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Adicionar</a></p>
     					</div>
     				</div>
@@ -224,8 +222,8 @@
     				<div class="services-wrap d-flex">
     					<a href="#" class="img order-lg-last" style="background-image: url(images/pizza-6.jpg);"></a>
     					<div class="text p-4">
-    						<h3>Marguerita</h3>
-    						<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia</p>
+    						<h3>Pizza marguerita</h3>
+    						<p>Pizza Marguerita: Tomate, mozzarella e manjericão em uma combinação clássica e deliciosa.</p>
     						<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Adicionar</a></p>
     					</div>
     				</div>
@@ -238,7 +236,7 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h2 class="mb-4">Preço do nosso cardápio</h2>
             <p class="flip"><span class="deg1"></span><span class="deg2"></span><span class="deg3"></span></p>
-            <p class="mt-5">Muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p>
+            <!-- <p class="mt-5">Muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p> -->
           </div>
         </div>
         <div class="row">
@@ -251,7 +249,7 @@
 	        				<span class="price">$20.00</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Um pequeno rio chamado Duden passa por seu lugar e abastece</p>
+	        				<p>Pizza Italiana: Tomate, mozzarella e manjericão em uma combinação clássica e deliciosa.</p>
 	        			</div>
         			</div>
         		</div>
@@ -263,7 +261,7 @@
 	        				<span class="price">$29.00</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Um pequeno rio chamado Duden passa por seu lugar e abastece</p>
+	        				<p>Pizza Havaiana: Presunto e abacaxi em uma mistura tropical e saborosa.</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -275,7 +273,7 @@
 	        				<span class="price">$20.00</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Um pequeno rio chamado Duden passa por seu lugar e abastece</p>
+	        				<p>Pizza Grega: Azeitonas, queijo feta, tomate e manjericão em uma explosão mediterrânea de sabores.</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -283,11 +281,11 @@
         			<div class="img" style="background-image: url(images/pizza-4.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Bacon crocante fino</span></h3>
+	        				<h3><span>Pizza de bacon</span></h3>
 	        				<span class="price">$20.00</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Um pequeno rio chamado Duden passa por seu lugar e abastece</p>
+	        				<p>Pizza de Bacon: Generosas fatias de bacon crocante sobre queijo derretido e molho de tomate, uma explosão de sabor defumado.</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -302,7 +300,7 @@
 	        				<span class="price">$49.91</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Um pequeno rio chamado Duden passa por seu lugar e abastece</p>
+	        				<p>Especial Havaiano: Uma fusão tropical de presunto e abacaxi, uma explosão de sabores agridoces.</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -310,11 +308,11 @@
         			<div class="img" style="background-image: url(images/pizza-6.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Sobrecarga final</span></h3>
+	        				<h3><span>Pizza de Calabresa</span></h3>
 	        				<span class="price">$20.00</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Um pequeno rio chamado Duden passa por seu lugar e abastece</p>
+	        				<p>Pizza de Calabresa: Fatias suculentas de calabresa sobre queijo derretido e molho de tomate, um clássico irresistível.</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -322,11 +320,11 @@
         			<div class="img" style="background-image: url(images/pizza-7.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Pizza de Bacon</span></h3>
+	        				<h3><span>Pizza Quatro Queijos</span></h3>
 	        				<span class="price">$20.00</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Um pequeno rio chamado Duden passa por seu lugar e abastece</p>
+	        				<p>Pizza Quatro Queijos: Uma combinação cremosa de queijo muçarela, gorgonzola, parmesão e catupiry, derretidos sobre uma base de molho de tomate, uma verdadeira festa de queijos.</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -334,11 +332,11 @@
         			<div class="img" style="background-image: url(images/pizza-8.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Ham &amp; Pizza de Bacon</span></h3>
+	        				<h3><span>Pizza presunto e Bacon</span></h3>
 	        				<span class="price">$20.00</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Um pequeno rio chamado Duden passa por seu lugar e abastece</p>
+	        				<p>Pizza de Presunto e Bacon: Uma mistura irresistível de presunto e bacon crocante sobre queijo derretido e molho de tomate, uma explosão de sabores defumados.</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -442,11 +440,11 @@
 		            <div class="nav ftco-animate nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 		              <a class="nav-link active" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">Pizza</a>
 
-		              <a class="nav-link" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">Drinks</a>
+		              <a class="nav-link" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">Bebidas</a>
 
-		              <a class="nav-link" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">Burgers</a>
+		              <a class="nav-link" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">hamburguer</a>
 
-		              <a class="nav-link" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-4" aria-selected="false">Pasta</a>
+		              <!-- <a class="nav-link" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-4" aria-selected="false">Massa</a> -->
 		            </div>
 		          </div>
 		          <div class="col-md-12 d-flex align-items-center">
@@ -457,10 +455,10 @@
 		              	<div class="row">
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/pizza-1.jpg);"></a>
+		              				<div class="menu-img img mb-4" style="background-image: url(images/pizza-1.jpg);"></div>
 		              				<div class="text">
-		              					<h3><a href="#">Pizza Italiana</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3>Pizza Italiana</h3>
+		              					<p>Pizza Italiana: Tomate, mozzarella e manjericão em uma clássica combinação mediterrânea.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -470,8 +468,8 @@
 		              			<div class="menu-wrap">
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/pizza-2.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Pizza Italiana</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3><a href="#">Pizza Quatro Queijos</a></h3>
+		              					<p>Pizza Quatro Queijos: Uma combinação cremosa de queijo muçarela, gorgonzola, parmesão e catupiry, derretidos sobre uma base de molho de tomate, uma verdadeira festa de queijos.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -481,8 +479,8 @@
 		              			<div class="menu-wrap">
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/pizza-3.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Pizza Italiana</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3><a href="#">Pizza de Bacon</a></h3>
+		              					<p>Pizza de Bacon: Generosas fatias de bacon crocante sobre queijo derretido e molho de tomate, uma explosão de sabor defumado.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -497,8 +495,8 @@
 		              			<div class="menu-wrap">
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-1.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Suco de limonada</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3><a href="#">Limonada</a></h3>
+		              					<p>Limonada: Refrescante e cítrico, preparado com limões frescos, água e açúcar, é uma bebida perfeita para os dias quentes de verão, proporcionando um equilíbrio perfeito entre doce e azedo.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -508,8 +506,8 @@
 		              			<div class="menu-wrap">
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-2.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Suco de abacaxi</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3><a href="#">Vinho</a></h3>
+		              					<p>Vinho: Uma bebida clássica e sofisticada, produzida a partir da fermentação de uvas, oferecendo uma ampla variedade de sabores, aromas e texturas, ideal para acompanhar momentos especiais e refeições memoráveis.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -519,8 +517,8 @@
 		              			<div class="menu-wrap">
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/drink-3.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Refrigerantes</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3><a href="#">Caipirinha</a></h3>
+		              					<p>Caipirinha: Uma bebida refrescante e tropical, feita com cachaça, limão, açúcar e gelo, trazendo o sabor do Brasil em cada gole, perfeita para celebrar e relaxar.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -535,8 +533,8 @@
 		              			<div class="menu-wrap">
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/burger-1.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Pizza Italiana</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3><a href="#">X-tudo</a></h3>
+		              					<p>X-Tudo: Um lanche completo com hambúrguer, queijo, presunto, ovo, alface, tomate, maionese e ketchup, oferecendo uma explosão de sabores em cada mordida.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -546,8 +544,8 @@
 		              			<div class="menu-wrap">
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/burger-2.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Pizza Italiana</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3><a href="#">X-bacon</a></h3>
+		              					<p>X-Bacon: Um clássico com hambúrguer, queijo, bacon crocante, alface, tomate, maionese e ketchup, proporcionando um sabor defumado irresistível.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -557,8 +555,8 @@
 		              			<div class="menu-wrap">
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/burger-3.jpg);"></a>
 		              				<div class="text">
-		              					<h3><a href="#">Pizza Italiana</a></h3>
-		              					<p>Muito, muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia.</p>
+		              					<h3><a href="#">X-salada</a></h3>
+		              					<p>X-Salada: Uma opção mais leve com hambúrguer, queijo, alface, tomate, maionese e ketchup, combinando frescor e sabor em um único lanche.</p>
 		              					<p class="price"><span>$2.90</span></p>
 		              					<p><a href="#" class="btn btn-white btn-outline-white">Adicionar ao carrinho</a></p>
 		              				</div>
@@ -612,7 +610,7 @@
     	</div>
     </section>
 
-    <section class="ftco-section">
+    <!-- <section class="ftco-section"> 
       <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
@@ -665,7 +663,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
 
 		
 		<section class="ftco-appointment">
@@ -708,7 +706,7 @@
           <div class="col-lg-3 col-md-6 mb-5 mb-md-5">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Sobre nós</h2>
-              <p>Muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p>
+              <p>Sabor e tradição se encontram na nossa pizzaria. Com ingredientes frescos e amor em cada receita, oferecemos pizzas autênticas para encantar seu paladar. Venha nos visitar e descubra o verdadeiro sabor da Itália."</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -722,10 +720,10 @@
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
                 <div class="text">
-                  <h3 class="heading"><a href="#">Mesmo o todo-poderoso Apontador não tem controle sobre</a></h3>
+                  <h3 class="heading"><a href="#">Pizza deliciosa</a></h3>
                   <div class="meta">
                     <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Lucia</a></div>
                     
                   </div>
                 </div>
@@ -733,16 +731,16 @@
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
                 <div class="text">
-                  <h3 class="heading"><a href="#">Mesmo o todo-poderoso Apontador não tem controle sobre</a></h3>
+                  <h3 class="heading"><a href="#">Pizzas muito gostosas</a></h3>
                   <div class="meta">
                     <div><a href="#"><span class="icon-calendar"></span> 10 de setembro de 2024</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Marco</a></div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-2 col-md-6 mb-5 mb-md-5">
+          <!-- <div class="col-lg-2 col-md-6 mb-5 mb-md-5"> 
              <div class="ftco-footer-widget mb-4 ml-md-4">
               <h2 class="ftco-heading-2">Serviços</h2>
               <ul class="list-unstyled">
@@ -752,7 +750,7 @@
                 <li><a href="#" class="py-2 d-block">Misturado</a></li>
               </ul>
             </div>
-          </div>
+          </div>-->
           <div class="col-lg-3 col-md-6 mb-5 mb-md-5">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Tem alguma dúvida?</h2>
