@@ -236,7 +236,6 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h2 class="mb-4">Preço do nosso cardápio</h2>
             <p class="flip"><span class="deg1"></span><span class="deg2"></span><span class="deg3"></span></p>
-            <!-- <p class="mt-5">Muito longe, atrás da palavra montanhas, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p> -->
           </div>
         </div>
         <div class="row">
@@ -392,7 +391,7 @@
 		              <div class="text">
 		              	<div class="icon"><span class="flaticon-pizza-1"></span></div>
 		              	<strong class="number" data-number="100">0</strong>
-		              	<span>Ramos de pizza</span>
+		              	<span>Pedaços de pizza</span>
 		              </div>
 		            </div>
 		          </div>
@@ -418,7 +417,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		              	<div class="icon"><span class="flaticon-chef"></span></div>
-		              	<strong class="number" data-number="900">0</strong>
+		              	<strong class="number" data-number="30">0</strong>
 		              	<span>Funcionários</span>
 		              </div>
 		            </div>
@@ -768,7 +767,7 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  <!-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> -->
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
